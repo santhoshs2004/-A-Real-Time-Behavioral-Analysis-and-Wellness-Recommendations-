@@ -50,20 +50,30 @@ Emotion Detection Algorithms: For interpreting emotional states from actions.
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Evaluation of the Model
 
+
 ![Screenshot 2024-11-13 005330](https://github.com/user-attachments/assets/ea775aae-811c-4b8b-91d7-41203ab36354)
+
 
 ![Screenshot 2024-11-13 005225](https://github.com/user-attachments/assets/fe4d9f58-9b0a-4353-9df4-1abc3801da2b)
 
+
 ![Screenshot 2024-11-13 005250](https://github.com/user-attachments/assets/477f1ee8-4fee-4b4e-975c-1c03445c5f28)
+
 
 ![Screenshot 2024-11-13 005347](https://github.com/user-attachments/assets/0067a212-4bf4-456e-9db5-d3a66b5a3584)
 
 
 #### Output2 - Wellness Recommendation
 
+
 ![Screenshot 2024-11-13 005427](https://github.com/user-attachments/assets/2060ae75-a8f2-4d33-9048-e79944885817)
 
+
+
+
 ![Screenshot 2024-11-13 005459](https://github.com/user-attachments/assets/d940312d-854b-45ed-ab10-9edb360595bb)
+
+
 
 
 Detection Accuracy: 84.6% (nearly 85%)
@@ -77,7 +87,7 @@ This model will enable real-time tracking of patients’ moods and behaviors, id
 
 This project stands to significantly impact healthcare by enabling real-time patient monitoring, personalized care, and a deeper understanding of mental and emotional health, ultimately leading to better patient outcomes and streamlined caregiving.
 
-.
+
 
 ## Articles published / References
 1) E. Ghaleb, M. Popa and S. Asteriadis, “Multimodal and Temporal Perception of Audio-visual Cues for Emotion Recognition," 8th International Conference on Affective Computing and Intelligent Interaction, 2019, pp. 552 -558.
